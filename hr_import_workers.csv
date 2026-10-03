@@ -1,0 +1,4 @@
+id,userName,firstName,lastName,email,status,employeeNumber,costCenter,department,division
+hr-worker-2001,j.smith@isurutrader.com,John,Smith,j.smith@isurutrader.com,ACTIVE,EMP-2001,AU-FIN-400,Identity & Access Management,Engineering
+hr-worker-2002,a.lee@isurutrader.com,Alice,Lee,a.lee@isurutrader.com,ACTIVE,EMP-2002,AU-OPS-200,Cloud Infrastructure,Operations
+hr-worker-1099,m.wilson@isurutrader.com,Mark,Wilson,m.wilson@isurutrader.com,TERMINATED,EMP-1099,AU-HR-100,Human Resources,Corporate
