@@ -9,6 +9,7 @@ HEADERS = {
 }
 
 def seed_scim_server():
+    """Seed the local SCIM server with users from the sample JSON file."""
     # Load your JSON sample data file
     try:
         with open("scim_sample_users.json", "r") as f:
